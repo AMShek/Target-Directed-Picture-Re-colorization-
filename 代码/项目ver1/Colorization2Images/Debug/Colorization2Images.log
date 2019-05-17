@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  RE_Dlg.cpp
+  MainFrm.cpp
+  IMG2_Dlg.cpp
+  IMG1_Dlg.cpp
+  Colorization2ImagesView.cpp
+  Colorization2ImagesDoc.cpp
+  Colorization2Images.cpp
+  BMP.cpp
+  正在生成代码...
+c:\users\mibyb\documents\课程\大二下\图形学\cgteam_16337208_石邢越_project2\code\colorization2images\colorization2imagesview.cpp(214): warning C4715: “DinV”: 不是所有的控件路径都返回值
+BMP.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  Colorization2Images.vcxproj -> C:\Users\mibyb\Documents\课程\大二下\图形学\CGteam_16337208_石邢越_Project2\code\Debug\Colorization2Images.exe
